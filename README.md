@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @knamdev-git
-- 👀 I’m interested in Software development 
-- 🌱 I’m currently learning JAVA, Python
+- 👋 Hi, I’m Kanha Namdev. 
+- 👀 I’m interested in Software developer.
+- 🌱 I’m currently learning and exploring as Btech candidate.  
 - 📫 How to reach me :-
   Linkedin:- https://www.linkedin.com/in/kanha-namdev-b18aab257
 
